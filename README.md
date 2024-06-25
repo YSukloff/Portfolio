@@ -1,22 +1,22 @@
-# Public Health Data Analyst
+# Public Health Data Analyst <br />
 
-### Education
-University of Texas Health Science Center at Houston | 2024
+## Education <br />
+**University of Texas Health Science Center at Houston | 2024** <br />
 Dual Degree: Master of Public Health, Master of Science in Biomedical Informatics
 
-Lamar University | 2007
+**Lamar University | 2007** <br />
 Bachelor of Science in Nursing
 
-### Experience
-Data Coder 05 / 2023 – _present_
-CDC Foundation, Independent contractor
-•	Reviewing Universal Product Code (UPC)-level data and categorizing product features supporting the project: Monitoring E-Cigarette Use among Youth in Select US Cities and States.
+## Experience
+**Data Coder 05 / 2023 – _present_** <br />
+CDC Foundation, Independent contractor <br />
+•	Reviewing Universal Product Code (UPC)-level data and categorizing product features supporting the project: Monitoring E-Cigarette Use among Youth in Select US Cities and States. 
 
-Student Practicum 01 / 2024 – 04 / 2024
-UTHealth McWilliams School of Biomedical Informatics, Houston Emergency Opioid Engagement System
+Student Practicum 01 / 2024 – 04 / 2024 <br />
+UTHealth McWilliams School of Biomedical Informatics, Houston Emergency Opioid Engagement System <br />
 •	Performed literature review and data analysis to determine if the age of first use of opioids predicts overdose, relapse rates, and quality of life. 
 
-Program Evaluation Analyst, Student Practicum 01 / 2024 – 04 / 2024
+Program Evaluation Analyst, Student Practicum 01 / 2024 – 04 / 2024 <br />
 One Good Turn Global Health, Kenya School Health Program
 •	Performed program evaluation of One Good Turn’s pilot program, Kenya School Health Program, assessing program efficacy and identifying areas for improvement, guided by the program’s logic model.
 •	Developed key performance indicators and culturally sensitive data collection questionnaires to collect quantitative and qualitative data. 
@@ -24,7 +24,7 @@ One Good Turn Global Health, Kenya School Health Program
 •	Performed quantitative and qualitative data analysis, using Stata for statistical analysis.
 •	Prepared evaluation reports for One Good Turn’s team and stakeholders, summarizing findings.
 
-Epidemiology Intern 01 / 2023 – 04 / 2023  
+Epidemiology Intern 01 / 2023 – 04 / 2023  <br />
 TX Department of State Health Services, Epidemiology Department. San Antonio, TX
 •	Generated a weekly epidemiology report through SAS that analyzed the Texas Public Health Region 8's sentinel seasonal influenza surveillance network.
 •	Created a Power BI dashboard that allowed visual analysis of the distribution of the sentinel seasonal influenza surveillance network by location, county, facility type, and time.
@@ -35,12 +35,13 @@ Montrose Center, Gaining Equity in Training for Public Health Informatics & Tech
 •	Designed an Access database to analyze and improve tracking of data.
 •	Utilized Excel and Access for data analysis and visualization.
 
-Data Analyst 10 / 2021 – 09 / 2022
+Data Analyst 10 / 2021 – 09 / 2022 <br />
 UTHealth Science Center at Houston, School of Public Health in San Antonio. San Antonio, TX
 •	Conducted analysis of clinical investigation of COVID-19 data using Excel Pivot Tables for stakeholders.
 •	Modified standard operating procedures to streamline data reporting processes.
 •	Performed data entry in Microsoft Access databases.
- Registered Nurse 2007 – 2021
+
+ Registered Nurse 2007 – 2021 <br />
 Accordant, a CVS Caremark company, Chronic and Rare Health Management. San Antonio, TX
 	• Editor of multiple sclerosis educational newsletter for members.
 • Integral member of a multidisciplinary task team with a focus on improving screening of members’
@@ -61,3 +62,8 @@ evaluated holistically, and resources are provided to help empower the patient t
 Baptist Hospital of Southeast Texas, Emergency Department. Beaumont, TX
 • Served as a member of the interdisciplinary healthcare team in providing critical care and performing life-saving interventions to patients across the lifespan while maintaining safe and effective care in a fast
 paced environment.
+
+
+Special Thanks to [Shawn ](https://medium.com/the-data-entrepreneurs/how-to-make-a-free-data-science-portfolio-website-with-github-pages-aa1e4965e155).
+
+
