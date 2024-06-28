@@ -1,41 +1,52 @@
 # Public Health Data Analyst <br />
 
-## Education <br />
+## Education
 **University of Texas Health Science Center at Houston | 2024** <br />
 Dual Degree: Master of Public Health, Master of Science in Biomedical Informatics
 
 **Lamar University | 2007** <br />
 Bachelor of Science in Nursing
 
-## Experience
-**Data Coder 05 / 2023 – _present_** <br />
-CDC Foundation, Independent contractor <br />
-•	Reviewing Universal Product Code (UPC)-level data and categorizing product features supporting the project: Monitoring E-Cigarette Use among Youth in Select US Cities and States. 
+## Skills
+Microsoft Suite: Excel, Access, PowerPoint, Word, Outlook, Power BI <br />
+Data Visualization Software: Tableau, ArcGIS Pro <br />
+Statistical Software: Stata, SAS <br />
 
-Student Practicum 01 / 2024 – 04 / 2024 <br />
-UTHealth McWilliams School of Biomedical Informatics, Houston Emergency Opioid Engagement System <br />
-•	Performed literature review and data analysis to determine if the age of first use of opioids predicts overdose, relapse rates, and quality of life. 
+## Experience & Projects
 
-Program Evaluation Analyst, Student Practicum 01 / 2024 – 04 / 2024 <br />
-One Good Turn Global Health, Kenya School Health Program
-•	Performed program evaluation of One Good Turn’s pilot program, Kenya School Health Program, assessing program efficacy and identifying areas for improvement, guided by the program’s logic model.
-•	Developed key performance indicators and culturally sensitive data collection questionnaires to collect quantitative and qualitative data. 
-•	Designed data management plan, including standard operating procedure and data analysis tools (Excel, Google Forms).
-•	Performed quantitative and qualitative data analysis, using Stata for statistical analysis.
-•	Prepared evaluation reports for One Good Turn’s team and stakeholders, summarizing findings.
+#### [Monitoring E-Cigarette Use among Youth](https://www.cdcfoundation.org/programs/monitoring-e-cigarette-use-among-youth) @ CDC Foundation as independent contractor (05/2023 – _present_)
+- Program Description: The project is an initiative aimed at collecting and analyzing data on the prevalence and patterns of e-cigarette use among young people. This data is crucial for informing public health strategies and policies to address youth e-cigarette use. <br />
+- Application(s): Excel <br />
+- Skills: Data entry, data coding, quality control (two-person coding & data brief reviews), quality assurance (updating training documents) <br />
+- Job Title & Description of Role: Data Coder - Categorize and code tobacco product features according to UPC-level data
 
-Epidemiology Intern 01 / 2023 – 04 / 2023  <br />
-TX Department of State Health Services, Epidemiology Department. San Antonio, TX
-•	Generated a weekly epidemiology report through SAS that analyzed the Texas Public Health Region 8's sentinel seasonal influenza surveillance network.
+#### [Houston Emergency Opioid Engagement System (HEROES)](https://sbmi.uth.edu/heroes/) @ UTHealth Houston McWilliams School of Biomedical Informatics for student practicum (01/2024 – 04/2024)
+- Program Description: A joint initiative between the McGovern Medical School and the School of Biomedical Informatics at University of Texas Health Science Center, Houston that provides clinical and behavioral services to individuals seeking long-term recovery from opioid use disorder. <br />
+- Application(s) Utilized: Excel, REDCap, Tableau, Stata <br />
+- Skills Utilized: Literature review, data cleaning, data analysis (descriptive & statistical), data visualization <br />
+- _edited version of paper_
+
+#### [Kenya School Health Program](https://www.onegoodturn.org/) @ One Good Turn Global Health for student practicum (01/2024 – 04/2024)
+- Program Description: One Good Turn's School Health Program aims to improve community health outcomes and health literacy by supporting school health officers to educate and provide quality health services to students and their communities. <br />
+- Application(s) Utilized: Excel, Google Forms, Stata <br />
+- Skills Utilized: Program evaluation, data collection, data management planning, data analysis, data reports, key performance indicators, quality improvement
+-_edited version of PPT_
+
+#### [Epidemiology Intern](https://www.dshs.texas.gov/regional-local-health-operations/texas-public-health-region-8/public-health-region-8/public-health-region-8) @ TX Department of State Health Services, Public Health Region 8 (01/2023 – 04/2023)
+- Program Description: Protect healthy communities by reducing the burden of illness, hospitalization, and death from diseases that are spread person-to-person. 
+- Application(s) Utilized: Power BI, SAS <br />
+- Skills Utilized: 
+- Generated a weekly epidemiology report through SAS that analyzed the Texas Public Health Region 8's sentinel seasonal influenza surveillance network.
 •	Created a Power BI dashboard that allowed visual analysis of the distribution of the sentinel seasonal influenza surveillance network by location, county, facility type, and time.
-Data Analyst 10 / 2022 – 12/2022  
+
+### Data Analyst 10 / 2022 – 12/2022  
 Montrose Center, Gaining Equity in Training for Public Health Informatics & Technology (GET PHIT) Internship
 •	Collaborated and garnered feedback from leadership to clarify/understand functionality and user requirements.
 •	Identified areas of improvement.
 •	Designed an Access database to analyze and improve tracking of data.
 •	Utilized Excel and Access for data analysis and visualization.
 
-Data Analyst 10 / 2021 – 09 / 2022 <br />
+#Data Analyst 10 / 2021 – 09 / 2022
 UTHealth Science Center at Houston, School of Public Health in San Antonio. San Antonio, TX
 •	Conducted analysis of clinical investigation of COVID-19 data using Excel Pivot Tables for stakeholders.
 •	Modified standard operating procedures to streamline data reporting processes.
@@ -64,6 +75,6 @@ Baptist Hospital of Southeast Texas, Emergency Department. Beaumont, TX
 paced environment.
 
 
-Special Thanks to [Shawn ](https://medium.com/the-data-entrepreneurs/how-to-make-a-free-data-science-portfolio-website-with-github-pages-aa1e4965e155).
+Template Assistance from [Shaw Talebi](https://medium.com/the-data-entrepreneurs/how-to-make-a-free-data-science-portfolio-website-with-github-pages-aa1e4965e155).
 
 
