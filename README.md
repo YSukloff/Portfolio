@@ -64,6 +64,9 @@ Statistical Software: Stata, SAS <br />
  #### [Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
 - Telehealth | Telephone Triage | Chronic Disease Health Management
 - Multiple Sclerosis Specialist Nurse
+   - [Facilitating Medication Adherence in Patients with Multiple Sclerosis](https://doi.org/10.7224/1537-2073.2011-038), _International Journal of MS Care_ 2013
+   - [Empowering MS Patients: Teaching Self-Catheterization](https://cmsc.confex.com/cmsc/2013/webprogram/Paper1310.html), Oral Presentation @ 2013 CMSC ACTRIMS Meeting (Orlando, FL)
+   - [A Large Tertiary Care Multiple Sclerosis Center Experience with Fingolimod](https://www.neurology.org/doi/10.1212/WNL.78.1_supplement.P04.146), Poster Presentation @ 2012 AAN Meeting (New Orleans, LA).
 - Acute Care | Emergency Care | Bedside Nursing | Hospital Staff Nurse 
 
 
