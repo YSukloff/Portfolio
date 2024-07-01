@@ -1,18 +1,18 @@
 # Public Health Data Analyst <br />
 
-## Education
-**University of Texas Health Science Center at Houston | 2024** <br />
+## _Education_
+**[University of Texas Health Science Center at Houston](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm) | 2024** <br />
 Dual Degree: Master of Public Health, Master of Science in Biomedical Informatics
 
-**Lamar University | 2007** <br />
+**[Lamar University](https://www.lamar.edu/academics/degrees/nursing/nursing-bachelors-degree.html) | 2007** <br />
 Bachelor of Science in Nursing
 
-## Skills
+## _Skills_
 Microsoft Suite: Excel, Access, PowerPoint, Word, Outlook, Power BI <br />
 Data Visualization Software: Tableau, ArcGIS Pro <br />
 Statistical Software: Stata, SAS <br />
 
-## Experience & Projects
+## _Experience & Projects_
 
 #### [Monitoring E-Cigarette Use among Youth](https://www.cdcfoundation.org/programs/monitoring-e-cigarette-use-among-youth) @ CDC Foundation as independent contractor (05/2023 – _present_)
 - Program Description: The project is an initiative aimed at collecting and analyzing data on the prevalence and patterns of e-cigarette use among young people. This data is crucial for informing public health strategies and policies to address youth e-cigarette use. <br />
@@ -29,18 +29,17 @@ Statistical Software: Stata, SAS <br />
 #### [Kenya School Health Program](https://www.onegoodturn.org/) @ One Good Turn Global Health for student practicum (01/2024 – 04/2024)
 - Program Description: One Good Turn's School Health Program aims to improve community health outcomes and health literacy by supporting school health officers to educate and provide quality health services to students and their communities. <br />
 - Application(s): Excel, Google Forms, Stata <br />
-- Skills: Program evaluation, data collection, data management planning, data analysis, data reports, key performance indicators, quality improvement, quality assurance, quality control
+- Skills: Program evaluation, improve and designed new survey questionnaire, data management planning, data analysis, data reports, key performance indicators, quality improvement, quality assurance, quality control <br />
 -_edited version of PPT_
 
 #### [Seasonal Influenza Surveillance](https://www.dshs.texas.gov/regional-local-health-operations/texas-public-health-region-8/public-health-region-8/public-health-region-8) @ TX Department of State Health Services (01/2023 – 04/2023)
 - Program Description: Protect healthy communities by reducing the burden of illness, hospitalization, and death from diseases that are spread person-to-person. 
 - Application(s): Power BI, SAS <br />
 - Skills: Usability testing, data cleaning, data analysis, data visualization, dummy data <br />
-- Job Title & Role Description: Epidemiology Intern, Public Health Region 8 | Generated weekly epidemiology report analyzing Region 8's sentinel seasonal influenza surveillance data & created a Power BI interactive dashboard that allowed visual analysis of the distribution of the report by location, county, and facility type.
+- Job Title & Role Description: Epidemiology Intern, Public Health Region 8 | Generated weekly epidemiology report analyzing Region 8's sentinel seasonal influenza surveillance data & created a Power BI interactive dashboard that allowed visual analysis of the distribution of the report by location, county, and facility type. <br />
 _image of dashboard_
 
-#### Data Analyst 10 / 2022 – 12/2022  
-Montrose Center, Gaining Equity in Training for Public Health Informatics & Technology (GET PHIT) Internship <br />
+#### Gaining Equity in Training for Public Health Informatics & Technology (GET PHIT) Internship @ Montrose Center 10/2022 – 12/2022 
 •	Collaborated and garnered feedback from leadership to clarify/understand functionality and user requirements. <br />
 •	Identified areas of improvement.<br />
 •	Designed an Access database to analyze and improve tracking of data.<br />
