@@ -2,7 +2,7 @@
 
 ## _Education_
 **[University of Texas Health Science Center at Houston](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm) | 2024** <br />
-Dual Degree: Master of Public Health, Master of Science in Biomedical Informatics
+Dual Degree: Master of Public Health | Master of Science in Biomedical Informatics
 
 **[Lamar University](https://www.lamar.edu/academics/degrees/nursing/nursing-bachelors-degree.html) | 2007** <br />
 Bachelor of Science in Nursing
@@ -17,7 +17,7 @@ Statistical Software: Stata, SAS <br />
 #### [Monitoring E-Cigarette Use among Youth](https://www.cdcfoundation.org/programs/monitoring-e-cigarette-use-among-youth) @ CDC Foundation as independent contractor (05/2023 – _present_)
 - Program Description: The project is an initiative aimed at collecting and analyzing data on the prevalence and patterns of e-cigarette use among young people. This data is crucial for informing public health strategies and policies to address youth e-cigarette use. <br />
 
-- Job Title & Role Description: Data Coder | Categorize and code tobacco product features according to UPC-level data.
+- Job Title & Role Description: Data Coder | Categorize and code tobacco product features according to UPC-level data. <br />
 - Application(s): Excel <br />
 - Skills: Data entry, data coding, quality control (two-person coding & data brief reviews), quality assurance (updating training documents) <br />
 
