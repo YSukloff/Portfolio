@@ -59,11 +59,11 @@
 - Application(s): Access, Excel, Texas National Electronic Disease Surveillance System (NEDSS)
 - Skills: Data entry, data cleaning, data analysis, data reports, standard operating procedure
 
- #### [Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
+ ####[Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
 - Telehealth , Telephone Triage , Chronic Disease Health Management
 - Multiple Sclerosis Specialist Nurse
    - [Facilitating Medication Adherence in Patients with Multiple Sclerosis](https://doi.org/10.7224/1537-2073.2011-038), _International Journal of MS Care_ 2013
-   - [Educating Multiple Sclerosis Patients on Clean Intermittent Catheterization](https://www.researchgate.net/profile/Ahmed-Obeidat/publication/269701751_Stressful_Life_Events_and_Multiple_Sclerosis_A_Call_for_Re-Evaluation/links/552355e20cf29dcabb0efb74/Stressful-Life-Events-and-Multiple-Sclerosis-A-Call-for-Re-Evaluation.pdf), Oral Presentation @ 2012 CMSC Annual Meeting (San Diego, CA)
+   - [Educating Multiple Sclerosis Patients on Clean Intermittent Catheterization](https://cmsc.confex.com/cmsc/2013/webprogram/Paper1310.html), Oral Presentation @ 2012 CMSC Annual Meeting (San Diego, CA)
    - [A Large Tertiary Care Multiple Sclerosis Center Experience with Fingolimod](https://www.aan.com/MSA/Public/Events/AbstractDetails/18616), Poster Presentation @ 2012 AAN Meeting (New Orleans, LA).
 - Acute Care , Emergency Care , Bedside Nursing , Hospital Staff Nurse 
 
