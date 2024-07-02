@@ -50,7 +50,7 @@
 - _Application(s)_: Access, Excel, Texas National Electronic Disease Surveillance System (NEDSS)
 - _Skills_: Data entry, data cleaning, data analysis, data reports, standard operating procedure
 
- ####[Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
+ #### [Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
 - Telehealth , Telephone Triage , Chronic Disease Health Management
 - Multiple Sclerosis Specialist Nurse
    - [Facilitating Medication Adherence in Patients with Multiple Sclerosis](https://doi.org/10.7224/1537-2073.2011-038), _International Journal of MS Care_ 2013
