@@ -19,18 +19,17 @@
 - _Application(s)_: Excel
 - _Skills_: Data entry, data coding, quality control (two-person coding & data brief reviews), quality assurance (updating training documents)
 
-
+#### [Kenya School Health Program](https://www.onegoodturn.org/) @ One Good Turn Global Health for student practicum (01/2024 – 04/2024) _and ongoing PRN consult_
+- _Program Description_: One Good Turn's School Health Program aims to improve community health outcomes and health literacy by supporting school health officers to educate and provide quality health services to students and their communities. 
+- _Role Description_: Student Practicum , Performed program evaluation of One Good Turn’s pilot program, Kenya School Health Program, assessing program efficacy and identifying areas for improvement, guided by the program’s logic model.
+- _Application(s)_: Excel , Google Forms , Stata 
+- _Skills_: Program evaluation, data management planning, survey questionnaire design, standard operating procedures, data analysis, data reports, key performance indicators, quality improvement, quality assurance, quality control
+- 
 #### [Houston Emergency Opioid Engagement System (HEROES)](https://sbmi.uth.edu/heroes/) @ UTHealth Houston McWilliams School of Biomedical Informatics (01/2024 – 04/2024)
 - _Program Description_: A joint initiative between the McGovern Medical School and the School of Biomedical Informatics at University of Texas Health Science Center, Houston that provides clinical and behavioral services to individuals seeking long-term recovery from opioid use disorder. 
 - _Role Description_: Student Practicum , A retrospective study was conducted with data collected from adult participants enrolled in the HEROES study. Logistic regression models were conducted to evaluate the relationship between the age at first opioid use and the outcomes of overdose, relapse, and health-related quality of life.
 - _Application(s)_: Excel , REDCap , Stata , Tableau 
 - _Skills_: Literature review, data cleaning, data analysis (descriptive & statistical), data visualization 
-
-#### [Kenya School Health Program](https://www.onegoodturn.org/) @ One Good Turn Global Health for student practicum (01/2024 – 04/2024)
-- _Program Description_: One Good Turn's School Health Program aims to improve community health outcomes and health literacy by supporting school health officers to educate and provide quality health services to students and their communities. 
-- _Role Description_: Student Practicum , Performed program evaluation of One Good Turn’s pilot program, Kenya School Health Program, assessing program efficacy and identifying areas for improvement, guided by the program’s logic model.
-- _Application(s)_: Excel , Google Forms , Stata 
-- _Skills_: Program evaluation, data management planning, survey questionnaire design, standard operating procedures, data analysis, data reports, key performance indicators, quality improvement, quality assurance, quality control 
 
 #### [Seasonal Influenza Surveillance](https://www.dshs.texas.gov/regional-local-health-operations/texas-public-health-region-8/public-health-region-8/public-health-region-8) @ TX Department of State Health Services (01/2023 – 04/2023)
 - _Program Description_: Protect healthy communities by reducing the burden of illness, hospitalization, and death from diseases that are spread person-to-person. 
