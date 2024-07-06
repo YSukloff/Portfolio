@@ -1,7 +1,7 @@
 # Healthcare Data Analyst 
 
 ## Education
-**[Dual Degree: Master of Public Health , Master of Science in Biomedical Informatics](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm)**  @ _University of Texas Health Science Center at Houston, 2024_
+**[Dual Degree: Master of Public Health , Master of Science in Biomedical Informatics](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm)**  @ _UTHealth at Houston, 2024_
 
 **[Bachelor of Science in Nursing](https://www.lamar.edu/academics/degrees/nursing/nursing-bachelors-degree.html)**  @ _Lamar University, 2007_
 
@@ -11,7 +11,7 @@
 - Data Visualization Software: Tableau, ArcGIS Pro 
 - Statistical Software: Stata, SAS 
 
-## Experience & Projects
+## Projects / Experience
 
 #### [Monitoring E-Cigarette Use among Youth](https://www.cdcfoundation.org/programs/monitoring-e-cigarette-use-among-youth) @ CDC Foundation as independent contractor (05/2023 – _present_)
 - _Program Description_: The project is an initiative aimed at collecting and analyzing data on the prevalence and patterns of e-cigarette use among young people.
@@ -53,9 +53,9 @@
 - Telehealth , Telephone Triage , Chronic Disease Health Management
 - Multiple Sclerosis Specialist Nurse
    - [Facilitating Medication Adherence in Patients with Multiple Sclerosis](https://doi.org/10.7224/1537-2073.2011-038), _International Journal of MS Care_ 2013
-   - [Educating Multiple Sclerosis Patients on Clean Intermittent Catheterization](https://cmsc.confex.com/cmsc/2013/webprogram/Paper1310.html), Oral Presentation @ 2012 CMSC Annual Meeting (San Diego, CA)
+   - [Educating Multiple Sclerosis Patients on Clean Intermittent Catheterization](https://cmsc.confex.com/cmsc/2013/webprogram/Paper1310.html), Oral Presentation @ 2012 CMSC Meeting (San Diego, CA).
    - [A Large Tertiary Care Multiple Sclerosis Center Experience with Fingolimod](https://www.aan.com/MSA/Public/Events/AbstractDetails/18616), Poster Presentation @ 2012 AAN Meeting (New Orleans, LA).
-- Acute Care , Emergency Care , Bedside Nursing , Hospital Staff Nurse 
+- Acute Care , Emergency Care , Progressive Care
 
 
 
