@@ -24,7 +24,7 @@
 - _Role Description_: Student Practicum , Performed program evaluation of One Good Turn’s pilot program, Kenya School Health Program, assessing program efficacy and identifying areas for improvement, guided by the program’s logic model.
 - _Application(s)_: Excel , Google Forms , Stata 
 - _Skills_: Program evaluation, data management planning, survey questionnaire design, standard operating procedures, data analysis, data reports, key performance indicators, quality improvement, quality assurance, quality control
-- 
+
 #### [Houston Emergency Opioid Engagement System (HEROES)](https://sbmi.uth.edu/heroes/) @ UTHealth Houston McWilliams School of Biomedical Informatics (01/2024 – 04/2024)
 - _Program Description_: A joint initiative between the McGovern Medical School and the School of Biomedical Informatics at University of Texas Health Science Center, Houston that provides clinical and behavioral services to individuals seeking long-term recovery from opioid use disorder. 
 - _Role Description_: Student Practicum , A retrospective study was conducted with data collected from adult participants enrolled in the HEROES study. Logistic regression models were conducted to evaluate the relationship between the age at first opioid use and the outcomes of overdose, relapse, and health-related quality of life.
@@ -49,7 +49,7 @@
 - _Application(s)_: Access, Excel, Texas National Electronic Disease Surveillance System (NEDSS)
 - _Skills_: Data entry, data cleaning, data analysis, data reports, standard operating procedure
 
- #### [Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
+#### [Registered Nurse](https://www.bon.texas.gov/licensure_verification.asp.html) 
 - Telehealth , Telephone Triage , Chronic Disease Health Management
 - Multiple Sclerosis Specialist Nurse
    - [Facilitating Medication Adherence in Patients with Multiple Sclerosis](https://doi.org/10.7224/1537-2073.2011-038), _International Journal of MS Care_ 2013
