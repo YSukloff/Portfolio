@@ -1,7 +1,7 @@
 # Healthcare Data Analyst 
 
 ## Education
-**[Dual Degree: Master of Public Health , Master of Science in Biomedical Informatics](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm)**  @ _UTHealth at Houston, 2024_
+**[Dual Degree: Master of Public Health & Master of Science in Biomedical Informatics](https://sbmi.uth.edu/current-students/student-handbook/dual-degree.htm)**  @ _UTHealth at Houston, 2024_
 
 **[Bachelor of Science in Nursing](https://www.lamar.edu/academics/degrees/nursing/nursing-bachelors-degree.html)**  @ _Lamar University, 2007_
 
